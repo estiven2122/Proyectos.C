@@ -1,0 +1,14 @@
+C:\Users\estiv\source\repos\Juego21\Juego21\bin\Debug\net7.0\Juego21.exe
+C:\Users\estiv\source\repos\Juego21\Juego21\bin\Debug\net7.0\Juego21.deps.json
+C:\Users\estiv\source\repos\Juego21\Juego21\bin\Debug\net7.0\Juego21.runtimeconfig.json
+C:\Users\estiv\source\repos\Juego21\Juego21\bin\Debug\net7.0\Juego21.dll
+C:\Users\estiv\source\repos\Juego21\Juego21\bin\Debug\net7.0\Juego21.pdb
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\Juego21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\Juego21.AssemblyInfoInputs.cache
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\Juego21.AssemblyInfo.cs
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\Juego21.csproj.CoreCompileInputs.cache
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\Juego21.dll
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\refint\Juego21.dll
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\Juego21.pdb
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\Juego21.genruntimeconfig.cache
+C:\Users\estiv\source\repos\Juego21\Juego21\obj\Debug\net7.0\ref\Juego21.dll
